@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-jit-size-increase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mix --production"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "clean-css-loader": "^3.0.0",
+    "laravel-mix": "^6.0.25",
+    "postcss": "^8.3.5",
+    "postcss-import": "^14.0.2",
+    "postcss-nested": "^5.0.5",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-prettify": "^0.3.4",
+    "postcss-sorting": "^6.0.0",
+    "tailwindcss": "2.0.4"
+  }
+}
